@@ -13,7 +13,7 @@ for i in range(len(datalist)):
 
 p0 = []
 
-for i in range(a):
+for i in range(a):  #for迴圈
     p0.append(datalist[i][0])
 
 dic = dict()
